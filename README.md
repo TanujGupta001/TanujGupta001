@@ -21,7 +21,7 @@
 **Frontend:** React.js • JavaScript • HTML5 • CSS3 • Tailwind CSS • Redux               
 **Backend:** Node.js • Express.js • MongoDB • Mongoose • REST APIs  
 **AI & Tools:** Gemini API • AI Integrations • Git & GitHub • Postman • MongoDB Atlas  
-**Currently Learning:** Next.js • TypeScript • System Design
+**Currently Learning:** Next.js • TypeScript • System Design • GenAI
 
 ---
 
